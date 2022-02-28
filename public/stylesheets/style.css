@@ -7,12 +7,12 @@ a {
   color: #00B7FF;
 }
 
-.delete-from {
+.delete-form {
   display: inline-block;
   margin-right: 10px;
 }
 
-.delete-from button {
+.delete-form button {
   color: red;
 }
 
