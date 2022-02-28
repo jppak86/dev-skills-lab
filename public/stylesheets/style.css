@@ -6,3 +6,16 @@ body {
 a {
   color: #00B7FF;
 }
+
+.delete-from {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.delete-from button {
+  color: red;
+}
+
+li {
+  list-style: none;
+}
